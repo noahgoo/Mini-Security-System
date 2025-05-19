@@ -4,7 +4,7 @@ A mini security system built from an arduino uno and parts that can be disarmed/
 
 Goals
 
-Arms/disarms via IR remote or button
+Arms/disarms via IR remote or button \n
 Uses ultrasonic sensor to detect motion/intrusion
 Triggers a buzzer alarm and/or servo "lock"
 Displays status on an LCD
